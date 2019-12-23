@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Berlin",
+        "City": "Berlin",
+        "Country": "Germany",
+        "Continent": "Europe",
+        "Owner": "http://www.noatamir.com/",
+        "URL": "https://berlin2019.satrdays.org",
+        "Status": "Past",
+        "Date": "15/06/2019",
+        "Year": "2019",
+        "Quarter": "Q2",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "40 Euros",
+        "Sponsors": "Auto1 Group; Europace; R Consortium; Rstudio; jumping rivers",
+        "Invited_Speakers": "Uwe Ligges; Isabella Gollini",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.389174,52.51279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Kampala",
+        "City": "Kampala",
+        "Country": "Uganda",
+        "Continent": "Africa",
+        "Owner": "https://github.com/markoke",
+        "URL": "https://kampala2019.satrdays.org/",
+        "Status": "Past",
+        "Date": "25/05/2019",
+        "Year": "2019",
+        "Quarter": "Q2",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "0",
+        "Sponsors": "Rstudio; Zindi; outbox; jumping rivers",
+        "Invited_Speakers": "Steph Locke; Shelmith Kariuki",
+        "Additional_Info": "Talk materials available at https://github.com/kampalr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.5763246,0.3229397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Gdansk",
+        "City": "Gda_sk",
+        "Country": "Poland",
+        "Continent": "Europe",
+        "Owner": "https://github.com/olgnaydn",
+        "URL": "https://gdansk2019.satrdays.org/",
+        "Status": "Past",
+        "Date": "17/05/2019",
+        "Year": "2019",
+        "Quarter": "Q2",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "140 PLN",
+        "Sponsors": "Jeppesen; Udemy; Appsilon; jumping rivers; BEST; R Consortium; Rstudio; ERGO Hestia; infoShare academy; pwc; stickermule",
+        "Invited_Speakers": "Przemyslaw Biecek; Hanna Piotrowska; B_a_ej Kocha_ski; Agnieszka Krl",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.619133,54.371291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Chicago",
+        "City": "Chicago",
+        "Country": "America",
+        "Continent": "North America",
+        "Owner": "https://github.com/angela-li",
+        "URL": "https://chicago2019.satrdays.org/",
+        "Status": "Past",
+        "Date": "27/04/2019",
+        "Year": "2019",
+        "Quarter": "Q2",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "0",
+        "Sponsors": "Rstudio; R Consortium; Capital One; Microsoft; UPTAKE; Braintree; SatRday; Metis; Roosevelt University",
+        "Invited_Speakers": "Stephanie Kirmer; JD Long",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.625117,41.876342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "SatRday Los Angeles",
+        "City": "Los Angeles",
+        "Country": "America",
+        "Continent": "North America",
+        "Owner": "https://github.com/amy17519",
+        "URL": "https://losangeles2019.satrdays.org/",
+        "Status": "Past",
+        "Date": "06/04/2019",
+        "Year": "2019",
+        "Quarter": "Q2",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "0",
+        "Sponsors": "UCLA Alumni; Rstudio; Ipsos; System1; UCLA Library Data Science Center",
+        "Invited_Speakers": "Norm Matloff; Erin LeDell",
+        "Additional_Info": "Talk materials available at https://github.com/satRdays/losangeles/blob/master/2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.445186,34.070231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Newcastle upon Tyne",
+        "City": "Newcastle upon Tyne",
+        "Country": "England",
+        "Continent": "Europe",
+        "Owner": "https://github.com/csgillespie",
+        "URL": "https://newcastle2019.satrdays.org/",
+        "Status": "Past",
+        "Date": "06/04/2019",
+        "Year": "2019",
+        "Quarter": "Q2",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "30 Pounds",
+        "Sponsors": "jumping rivers; Newcastle University; sage",
+        "Invited_Speakers": "Robin Lovelace; Noa Tamir; Thomas Lin Pedersen",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.615823,16,54.977799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Johannesburg",
+        "City": "Johannesburg",
+        "Country": "South Africa",
+        "Continent": "Africa",
+        "Owner": "",
+        "URL": "https://joburg2019.satrdays.org/",
+        "Status": "Past",
+        "Date": "05/04/2019",
+        "Year": "2019",
+        "Quarter": "Q2",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "R 200.00",
+        "Sponsors": "rain; Vantage; Discovery; Rstudio; Exegetic; chalcid; SYEOP; OfferZen; Derivco",
+        "Invited_Speakers": "Omayma Said; Danielle Navarro",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.2791756,-27.9732281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Paris",
+        "City": "Paris",
+        "Country": "France",
+        "Continent": "Europe",
+        "Owner": "https://colinfay.me/",
+        "URL": "https://paris2019.satrdays.org/",
+        "Status": "Past",
+        "Date": "23/02/2019",
+        "Year": "2019",
+        "Quarter": "Q1",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "0",
+        "Sponsors": "AgroParisTech; Gandi; RTE; SAMM; Dataiku; Rstudio; ArData; dreamRs; EDF; Esti; H2O; Servier",
+        "Invited_Speakers": "Lionel Henry; Henrik Bengtsson; Suzan Baert",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.347657,48.839773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday DC",
+        "City": "Washington DC",
+        "Country": "America",
+        "Continent": "North America",
+        "Owner": "https://benjaminortizulloa.github.io/",
+        "URL": "https://dc2018.satrdays.org/",
+        "Status": "Past",
+        "Date": "08/12/2018",
+        "Year": "2018",
+        "Quarter": "Q4",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "$50",
+        "Sponsors": "",
+        "Invited_Speakers": "Katherine Ognyanova; David Smith; Charlie Thompson",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.046408,38.899748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Santiago",
+        "City": "Santiago",
+        "Country": "Chile",
+        "Continent": "South America",
+        "Owner": "https://github.com/rivaquiroga",
+        "URL": "https://santiago2018.satrdays.org/",
+        "Status": "Past",
+        "Date": "15/12/2018",
+        "Year": "2018",
+        "Quarter": "Q4",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "$5000 CLP",
+        "Sponsors": "Data UC; Metric Arts; Microsoft",
+        "Invited_Speakers": "Soledad Araya; Stefanni Cavaletto; Rodrigo Cofre",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.640757,-33.441179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Belgrade",
+        "City": "Belgrade",
+        "Country": "Serbia",
+        "Continent": "Europe",
+        "Owner": "",
+        "URL": "https://belgrade2018.satrdays.org/",
+        "Status": "Past",
+        "Date": "27/10/2018",
+        "Year": "2018",
+        "Quarter": "Q4",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "0",
+        "Sponsors": "R Consortium",
+        "Invited_Speakers": "Mariachiara Fortuna; Andrea Melloncelli",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.465129,44.821746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Amsterdam",
+        "City": "Amsterdam",
+        "Country": "Netherlands",
+        "Continent": "Europe",
+        "Owner": "https://github.com/tesskorthout",
+        "URL": "https://amsterdam2018.satrdays.org/",
+        "Status": "Past",
+        "Date": "01/09/2018",
+        "Year": "2018",
+        "Quarter": "Q3",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "40 Euros",
+        "Sponsors": "GoDataDriven; UBER; Rstudio; Locke Data",
+        "Invited_Speakers": "Mara Averick",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9107555,52.3521887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Cardiff",
+        "City": "Cardiff",
+        "Country": "Wales",
+        "Continent": "Europe",
+        "Owner": "",
+        "URL": "https://cardiff2018.satrdays.org/",
+        "Status": "Past",
+        "Date": "23/06/2018",
+        "Year": "2018",
+        "Quarter": "Q2",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "30 Euros",
+        "Sponsors": "Cardiff University; Locke Data; jumping rivers; sorenson Media",
+        "Invited_Speakers": "Stephanie Locke; Heather Turner; Kathrine Tansey",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.179329,51.487539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Cape Town",
+        "City": "Cape Town",
+        "Country": "South Africa",
+        "Continent": "Africa",
+        "Owner": "",
+        "URL": "https://capetown2018.satrdays.org/",
+        "Status": "Past",
+        "Date": "17/03/2018",
+        "Year": "2018",
+        "Quarter": "Q1",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "0",
+        "Sponsors": "Microsoft; Vantage; OfferZen; University of Cape Town; Rstudio; Derivco; toptal; OpSi Systems; Bain & Company; Jumping Rivers; DataCamp; Gen Re",
+        "Invited_Speakers": "Maille Salmon; Stephanie Kovalchik",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.4575546,-33.9603641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Cape Town",
+        "City": "Cape Town",
+        "Country": "South Africa",
+        "Continent": "Africa",
+        "Owner": "",
+        "URL": "https://capetown2017.satrdays.org/",
+        "Status": "Past",
+        "Date": "18/02/2017",
+        "Year": "2017",
+        "Quarter": "Q1",
+        "Estimated_Attendees": "0",
+        "Ticket_Price": "R 200.00",
+        "Sponsors": "R Consortium; Derivco; j_XPERIENCE; Microsoft; Vantage; UCT",
+        "Invited_Speakers": "Steph Locke; Jennifer Bryan; Julia Silge",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.418547,-33.907146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Event": "satRday Budapest",
+        "City": "Budapest",
+        "Country": "Hungary",
+        "Continent": "Europe",
+        "Owner": "https://github.com/daroczig",
+        "URL": "https://budapest2016.satrdays.org/",
+        "Status": "Past",
+        "Date": "03/09/2016",
+        "Year": "2016",
+        "Quarter": "Q3",
+        "Estimated_Attendees": "180",
+        "Ticket_Price": "5,000 HUF",
+        "Sponsors": "R Consortium; BI Consulting; andego; Morgan Stanley; Data Solutions; hiflylabs; Kogentum; Precognox; quanopt; rapidminer; Syneti; Ustream",
+        "Invited_Speakers": "Gabor Csardi; Jeroen Ooms",
+        "Additional_Info": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.060182,47.474053]
+      }
+    }
+  ]
+}
