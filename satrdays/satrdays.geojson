@@ -16,8 +16,8 @@
         "Quarter": "Q2",
         "Estimated_Attendees": "0",
         "Ticket_Price": "40 Euros",
-        "Sponsors": "Auto1 Group- Europace- consortium- Rstudio- jumping rivers",
-        "Invited_Speakers": "Uwe Ligges- Isabella Gollini",
+        "Sponsors": "Auto1 Group; Europace; R Consortium; Rstudio; jumping rivers",
+        "Invited_Speakers": "Uwe Ligges; Isabella Gollini",
         "Additional_Info": ""
       },
       "geometry": {
@@ -40,8 +40,8 @@
         "Quarter": "Q2",
         "Estimated_Attendees": "0",
         "Ticket_Price": "0",
-        "Sponsors": "Rstudio- Zindi- outbox- jumping rivers",
-        "Invited_Speakers": "Steph Locke- Shelmith Kariuki",
+        "Sponsors": "Rstudio; Zindi; outbox; jumping rivers",
+        "Invited_Speakers": "Steph Locke; Shelmith Kariuki",
         "Additional_Info": "Talk materials available at https://github.com/kampalr"
       },
       "geometry": {
@@ -64,8 +64,8 @@
         "Quarter": "Q2",
         "Estimated_Attendees": "0",
         "Ticket_Price": "140 PLN",
-        "Sponsors": "Jeppesen- Udemy- Appsilon- jumping rivers- BEST- consortium- Rstudio- ERGO Hestia- infoShare academy- pwc- stickermule",
-        "Invited_Speakers": "Przemyslaw Biecek- Hanna Piotrowska- B_a_ej Kocha_ski- Agnieszka Krl",
+        "Sponsors": "Jeppesen; Udemy; Appsilon; jumping rivers; BEST; R Consortium; Rstudio; ERGO Hestia; infoShare academy; pwc; stickermule",
+        "Invited_Speakers": "Przemyslaw Biecek; Hanna Piotrowska; B_a_ej Kocha_ski; Agnieszka Krl",
         "Additional_Info": ""
       },
       "geometry": {
@@ -88,8 +88,8 @@
         "Quarter": "Q2",
         "Estimated_Attendees": "0",
         "Ticket_Price": "0",
-        "Sponsors": "Rstudio- consortium- Capital One- Microsoft- UPTAKE- Braintree- SatRday- Metis- Roosevelt University",
-        "Invited_Speakers": "Stephanie Kirmer- JD Long",
+        "Sponsors": "Rstudio; R Consortium; Capital One; Microsoft; UPTAKE; Braintree; SatRday; Metis; Roosevelt University",
+        "Invited_Speakers": "Stephanie Kirmer; JD Long",
         "Additional_Info": ""
       },
       "geometry": {
@@ -112,8 +112,8 @@
         "Quarter": "Q2",
         "Estimated_Attendees": "0",
         "Ticket_Price": "0",
-        "Sponsors": "UCLA Alumni- Rstudio- Ipsos- System1- UCLA Library Data Science Center",
-        "Invited_Speakers": "Norm Matloff- Erin LeDell",
+        "Sponsors": "UCLA Alumni; Rstudio; Ipsos; System1; UCLA Library Data Science Center",
+        "Invited_Speakers": "Norm Matloff; Erin LeDell",
         "Additional_Info": "Talk materials available at https://github.com/satRdays/losangeles/blob/master/2019"
       },
       "geometry": {
@@ -136,8 +136,8 @@
         "Quarter": "Q2",
         "Estimated_Attendees": "0",
         "Ticket_Price": "30 Pounds",
-        "Sponsors": "jumping rivers- Newcastle University- sage",
-        "Invited_Speakers": "Robin Lovelace- Noa Tamir- Thomas Lin Pedersen",
+        "Sponsors": "jumping rivers; Newcastle University; sage",
+        "Invited_Speakers": "Robin Lovelace; Noa Tamir; Thomas Lin Pedersen",
         "Additional_Info": ""
       },
       "geometry": {
@@ -160,8 +160,8 @@
         "Quarter": "Q2",
         "Estimated_Attendees": "0",
         "Ticket_Price": "R 200.00",
-        "Sponsors": "rain- Vantage- Discovery- Rstudio- Exegetic- chalcid- SYEOP- OfferZen- Derivco",
-        "Invited_Speakers": "Omayma Said- Danielle Navarro",
+        "Sponsors": "rain; Vantage; Discovery; Rstudio; Exegetic; chalcid; SYEOP; OfferZen; Derivco",
+        "Invited_Speakers": "Omayma Said; Danielle Navarro",
         "Additional_Info": ""
       },
       "geometry": {
@@ -184,8 +184,8 @@
         "Quarter": "Q1",
         "Estimated_Attendees": "0",
         "Ticket_Price": "0",
-        "Sponsors": "AgroParisTech- Gandi- RTE- SAMM- Dataiku- Rstudio- ArData- dreamRs- EDF- Esti- H2O- Servier",
-        "Invited_Speakers": "Lionel Henry- Henrik Bengtsson- Suzan Baert",
+        "Sponsors": "AgroParisTech; Gandi; RTE; SAMM; Dataiku; Rstudio; ArData; dreamRs; EDF; Esti; H2O; Servier",
+        "Invited_Speakers": "Lionel Henry; Henrik Bengtsson; Suzan Baert",
         "Additional_Info": ""
       },
       "geometry": {
@@ -209,7 +209,7 @@
         "Estimated_Attendees": "0",
         "Ticket_Price": "$50",
         "Sponsors": "",
-        "Invited_Speakers": "Katherine Ognyanova- David Smith- Charlie Thompson",
+        "Invited_Speakers": "Katherine Ognyanova; David Smith; Charlie Thompson",
         "Additional_Info": ""
       },
       "geometry": {
@@ -231,9 +231,9 @@
         "Year": "2018",
         "Quarter": "Q4",
         "Estimated_Attendees": "0",
-        "Ticket_Price": "$5000",
-        "Sponsors": "Data UC- Metric Arts- Microsoft",
-        "Invited_Speakers": "Soledad Araya- Stefanni Cavaletto- Rodrigo Cofre",
+        "Ticket_Price": "$5000 CLP",
+        "Sponsors": "Data UC; Metric Arts; Microsoft",
+        "Invited_Speakers": "Soledad Araya; Stefanni Cavaletto; Rodrigo Cofre",
         "Additional_Info": ""
       },
       "geometry": {
@@ -256,8 +256,8 @@
         "Quarter": "Q4",
         "Estimated_Attendees": "0",
         "Ticket_Price": "0",
-        "Sponsors": "consortium",
-        "Invited_Speakers": "Mariachiara Fortuna- Andrea Melloncelli",
+        "Sponsors": "R Consortium",
+        "Invited_Speakers": "Mariachiara Fortuna; Andrea Melloncelli",
         "Additional_Info": ""
       },
       "geometry": {
@@ -280,7 +280,7 @@
         "Quarter": "Q3",
         "Estimated_Attendees": "0",
         "Ticket_Price": "40 Euros",
-        "Sponsors": "GoDataDriven- UBER- Rstudio- Locke Data",
+        "Sponsors": "GoDataDriven; UBER; Rstudio; Locke Data",
         "Invited_Speakers": "Mara Averick",
         "Additional_Info": ""
       },
@@ -304,8 +304,8 @@
         "Quarter": "Q2",
         "Estimated_Attendees": "0",
         "Ticket_Price": "30 Euros",
-        "Sponsors": "Cardiff University- Locke Data- jumping rivers- sorenson Media",
-        "Invited_Speakers": "Stephanie Locke- Heather Turner- Kathrine Tansey",
+        "Sponsors": "Cardiff University; Locke Data; jumping rivers; sorenson Media",
+        "Invited_Speakers": "Stephanie Locke; Heather Turner; Kathrine Tansey",
         "Additional_Info": ""
       },
       "geometry": {
@@ -328,8 +328,8 @@
         "Quarter": "Q1",
         "Estimated_Attendees": "0",
         "Ticket_Price": "0",
-        "Sponsors": "Microsoft- Vantage- OfferZen- University of Cape Town- Rstudio- Derivco- toptal- OpSi Systems- Bain & Company- Jumping Rivers- DataCamp- Gen Re",
-        "Invited_Speakers": "Maille Salmon- Stephanie Kovalchik",
+        "Sponsors": "Microsoft; Vantage; OfferZen; University of Cape Town; Rstudio; Derivco; toptal; OpSi Systems; Bain & Company; Jumping Rivers; DataCamp; Gen Re",
+        "Invited_Speakers": "Maille Salmon; Stephanie Kovalchik",
         "Additional_Info": ""
       },
       "geometry": {
@@ -352,8 +352,8 @@
         "Quarter": "Q1",
         "Estimated_Attendees": "0",
         "Ticket_Price": "R 200.00",
-        "Sponsors": "consortium- Derivco- j_XPERIENCE- Microsoft- Vantage- UCT",
-        "Invited_Speakers": "Steph Locke- Jennifer Bryan- Julia Silge",
+        "Sponsors": "R Consortium; Derivco; j_XPERIENCE; Microsoft; Vantage; UCT",
+        "Invited_Speakers": "Steph Locke; Jennifer Bryan; Julia Silge",
         "Additional_Info": ""
       },
       "geometry": {
@@ -376,8 +376,8 @@
         "Quarter": "Q3",
         "Estimated_Attendees": "180",
         "Ticket_Price": "5,000 HUF",
-        "Sponsors": "consortium- BI Consulting- andego- Morgan Stanley- Data Solutions- hiflylabs- Kogentum- Precognox- quanopt- rapidminer- Syneti- Ustream",
-        "Invited_Speakers": "Gabor Csardi- Jeroen Ooms",
+        "Sponsors": "R Consortium; BI Consulting; andego; Morgan Stanley; Data Solutions; hiflylabs; Kogentum; Precognox; quanopt; rapidminer; Syneti; Ustream",
+        "Invited_Speakers": "Gabor Csardi; Jeroen Ooms",
         "Additional_Info": ""
       },
       "geometry": {
